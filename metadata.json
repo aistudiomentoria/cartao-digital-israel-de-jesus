@@ -1,0 +1,6 @@
+{
+  "name": "Cartão Digital - Israel de Jesus Silva",
+  "description": "Cartão de Visitas Digital com integração WhatsApp, QR Code, Depoimentos e Agendamento para Israel de Jesus Silva (AI Studio MentorIA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
